@@ -111,7 +111,7 @@ msgid "FAQ Category"
 msgstr ""
 
 #: lib/register.php:149
-msgctxt "Admin menu name"
+msgctxt "admin menu name"
 msgid "FAQ Categories"
 msgstr ""
 
@@ -270,7 +270,7 @@ msgid "Use as question image"
 msgstr ""
 
 #: lib/register.php:217
-msgctxt "Admin menu name"
+msgctxt "admin menu name"
 msgid "FAQs"
 msgstr ""
 
@@ -287,7 +287,7 @@ msgid "Questions list"
 msgstr ""
 
 #: lib/register.php:221
-msgctxt "Admin bar name"
+msgctxt "admin bar name"
 msgid "Question"
 msgstr ""
 
