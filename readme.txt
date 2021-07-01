@@ -9,7 +9,7 @@ Assets URI: https://surniaulula.github.io/wpsso-faq/assets/
 Tags: faq, faqpage, question, shortcode, schema, schema.org, answer, google, rich results, faqs, faq page
 Contributors: jsmoriss
 Requires PHP: 7.0
-Requires At Least: 4.5
+Requires At Least: 5.0
 Tested Up To: 5.7.2
 Stable Tag: 3.10.1
 
@@ -87,8 +87,8 @@ Version components: `{major}.{minor}.{bugfix}[-{stage}.{level}]`
 	* None.
 * **Requires At Least**
 	* PHP v7.0.
-	* WordPress v4.5.
-	* WPSSO Core v8.30.2.
+	* WordPress v5.0.
+	* WPSSO Core v8.34.0.
 
 **Version 3.10.0 (2021/05/15)**
 
