@@ -13,7 +13,7 @@
  * Description: Create FAQ and Question / Answer Pages with optional shortcodes to include FAQs and Questions / Answers in your content.
  * Requires PHP: 7.0
  * Requires At Least: 5.0
- * Tested Up To: 5.7.2
+ * Tested Up To: 5.8
  * Version: 3.10.1
  * 
  * Version Numbering: {major}.{minor}.{bugfix}[-{stage}.{level}]
